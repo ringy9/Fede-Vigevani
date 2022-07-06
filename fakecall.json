@@ -1,0 +1,54 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "8927aa63bef8a4be",
+            "max_int": "eb81583681f0698a",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Fede Vigevani",
+            "photo": "https://i.postimg.cc/4xmF4kxm/f2ee8e6f3ee6b82136f2544f136569ce.jpg",
+            "voice": "https://ringy9.github.io/Fede-Vigevani/audio.mp4",
+            "video": "https://ringy9.github.io/Fede-Vigevani/vid.mp4",
+            "stories": [
+               "https://i.postimg.cc/T3FNp7KQ/07c8aaf4c5e3fc07b8e6d5903faf70a2.jpg",
+"https://i.postimg.cc/QNJz0Jzx/208a1610fccbc5e0dbd3398a3cfe979a.jpg",
+"https://i.postimg.cc/FRt6nWm1/2b90f37085280c6e3b5411bc75ae805e.jpg",
+"https://i.postimg.cc/sDfN8ZFP/3490e419815efc4e93a9155c753c81df.jpg",
+"https://i.postimg.cc/XJwPMf7L/3b088e8cfebb86543f7b094228b9efa3.jpg",
+"https://i.postimg.cc/GtKStbDs/5304a86c246b1ccbf3e42d5d46feb079.jpg",
+"https://i.postimg.cc/ZqN7383m/60f4ebe17fe5dd1fcd91ab58656c3f8d.jpg",
+"https://i.postimg.cc/65HmN5wk/904e7c4ccb1a99f661602616c876ce8b.jpg",
+"https://i.postimg.cc/nrpPnXXJ/92b8524bba186baacaf5a60966c88403.jpg",
+"https://i.postimg.cc/zB1dkySg/985899724703622f8edc9fc26abc1e96.jpg",
+"https://i.postimg.cc/VvfD32hs/b273fa02bf679d4b4d29cb9ba44af755.jpg",
+"https://i.postimg.cc/Y9fdDtby/c79358317e168d9b6a44a3fa4be8cfe2.jpg",
+"https://i.postimg.cc/4xmF4kxm/f2ee8e6f3ee6b82136f2544f136569ce.jpg"
+            ],
+            "wallpapers": [
+               "https://i.postimg.cc/T3FNp7KQ/07c8aaf4c5e3fc07b8e6d5903faf70a2.jpg",
+"https://i.postimg.cc/QNJz0Jzx/208a1610fccbc5e0dbd3398a3cfe979a.jpg",
+"https://i.postimg.cc/FRt6nWm1/2b90f37085280c6e3b5411bc75ae805e.jpg",
+"https://i.postimg.cc/sDfN8ZFP/3490e419815efc4e93a9155c753c81df.jpg",
+"https://i.postimg.cc/XJwPMf7L/3b088e8cfebb86543f7b094228b9efa3.jpg",
+"https://i.postimg.cc/GtKStbDs/5304a86c246b1ccbf3e42d5d46feb079.jpg",
+"https://i.postimg.cc/ZqN7383m/60f4ebe17fe5dd1fcd91ab58656c3f8d.jpg",
+"https://i.postimg.cc/65HmN5wk/904e7c4ccb1a99f661602616c876ce8b.jpg",
+"https://i.postimg.cc/nrpPnXXJ/92b8524bba186baacaf5a60966c88403.jpg",
+"https://i.postimg.cc/zB1dkySg/985899724703622f8edc9fc26abc1e96.jpg",
+"https://i.postimg.cc/VvfD32hs/b273fa02bf679d4b4d29cb9ba44af755.jpg",
+"https://i.postimg.cc/Y9fdDtby/c79358317e168d9b6a44a3fa4be8cfe2.jpg",
+"https://i.postimg.cc/4xmF4kxm/f2ee8e6f3ee6b82136f2544f136569ce.jpg"
+            ]
+          
+        }
+    ]
+}
